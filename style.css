@@ -158,12 +158,6 @@ footer p {
   margin: 0;
 }
 
-@media (max-width: 600px) {
-  .halaman {
-    margin: 0;
-    border: 0;
-  }
-
   #profil,
   section {
     padding-left: 20px;
